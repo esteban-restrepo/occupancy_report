@@ -10,7 +10,7 @@ import requests
 import time
 import yaml
 #Arranco rich e imprimo el encabezado
-console = Console()
+console = Console(log_path=False)
 console.print('\nWINKS DOWNLOADER OCCUPANCY REPORT\n', style='blue bold' )
 # Leo el archivo de configuración
 console.log('Config file reading')
