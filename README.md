@@ -34,6 +34,7 @@ Open the config.yaml file in a text editor of your choice.
 - Introduce your user and password
 - Customize the configuration for each hotel (code, name, currency)
 - Define the data range
+- Define and create the download path (default is ./downloaded_report/)
 
 ### Additional Notes
 
